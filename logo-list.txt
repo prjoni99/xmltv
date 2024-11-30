@@ -1,0 +1,9 @@
+abc.nc.charlotte.wsoc , https://github.com/prjoni99/xmltv/blob/main/abc-9-wsoc-us.png
+abc.nc.raleigh.wtvd , https://github.com/prjoni99/xmltv/blob/main/abc-11-wtvd-us.png
+abc.nc.wilmington.wway , https://github.com/prjoni99/xmltv/blob/main/wway3.png
+cbs.nc.greensboro.wfmy , https://github.com/prjoni99/xmltv/blob/main/WFMY_logo_2015.png
+cbs.nc.raleigh.wncn , https://github.com/prjoni99/xmltv/blob/main/WNCN_logo.svg.png
+fox.nc.greensboro.wghp , https://github.com/prjoni99/xmltv/blob/main/fox-8-wghp-us.png
+fox.nc.raleigh.wraz , https://github.com/prjoni99/xmltv/blob/main/WRAZ.png
+nbc.nc.charlotte.wcnc , https://github.com/prjoni99/xmltv/blob/main/nbc-wcnc-us.png
+nbc.nc.raleigh.wral , https://github.com/prjoni99/xmltv/blob/main/WRAL.png
