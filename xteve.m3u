@@ -1,0 +1,369 @@
+#EXTM3U url-tvg="http://192.168.50.2:34400/xmltv/xteve.xml" x-tvg-url="http://192.168.50.2:34400/xmltv/xteve.xml"
+#EXTINF:0 channelID="x-ID.7" tvg-chno="1007" tvg-name="A&E" tvg-id="1007" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" group-title="Cable Channels",A&E
+http://192.168.50.2:34400/stream/db25bf908b07116e9ed391c6b91603a4
+#EXTINF:0 channelID="x-ID.8" tvg-chno="1008" tvg-name="AHC" tvg-id="1008" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/american-heroes-channel-us.png?raw=true" group-title="Cable Channels",AHC
+http://192.168.50.2:34400/stream/476df6334d60ccdcb82e124998dcf847
+#EXTINF:0 channelID="x-ID.9" tvg-chno="1009" tvg-name="AMC" tvg-id="1009" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/amc-us.png?raw=true" group-title="Cable Channels",AMC
+http://192.168.50.2:34400/stream/54738c551ad84ad4fb1be4a34ff28975
+#EXTINF:0 channelID="x-ID.10" tvg-chno="1010" tvg-name="Animal Planet" tvg-id="1010" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/animal-planet-us.png?raw=true" group-title="Cable Channels",Animal Planet
+http://192.168.50.2:34400/stream/1734074ac4f67fac9373267ec3f286b3
+#EXTINF:0 channelID="x-ID.11" tvg-chno="1011" tvg-name="BBC America" tvg-id="1011" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/bbc-america-us.png?raw=true" group-title="Cable Channels",BBC America
+http://192.168.50.2:34400/stream/a1702a25714fbf3b9ac266b562d04ea2
+#EXTINF:0 channelID="x-ID.12" tvg-chno="1012" tvg-name="BET" tvg-id="1012" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/bet-us.png?raw=true" group-title="Cable Channels",BET
+http://192.168.50.2:34400/stream/d6635fbe6d8ed2e380439b42e10bcf7a
+#EXTINF:0 channelID="x-ID.13" tvg-chno="1013" tvg-name="BET Her" tvg-id="1013" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/bet-her-us.png?raw=true" group-title="Cable Channels",BET Her
+http://192.168.50.2:34400/stream/dd5618a33f79ea983005ba2cde51c634
+#EXTINF:0 channelID="x-ID.14" tvg-chno="1014" tvg-name="Boomerang" tvg-id="1014" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/boomerang-us.png?raw=true" group-title="Cable Channels",Boomerang
+http://192.168.50.2:34400/stream/121d0f9a538522239a0f23ebe275f178
+#EXTINF:0 channelID="x-ID.15" tvg-chno="1015" tvg-name="Bounce TV" tvg-id="1015" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/bounce-us.png?raw=true" group-title="Cable Channels",Bounce TV
+http://192.168.50.2:34400/stream/b4cf79ee641c4e87e59c41b8c5a0b176
+#EXTINF:0 channelID="x-ID.16" tvg-chno="1016" tvg-name="Bravo" tvg-id="1016" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/bravo-us.png?raw=true" group-title="Cable Channels",Bravo
+http://192.168.50.2:34400/stream/a7e77aaf00deb48a45eafb1dea96b234
+#EXTINF:0 channelID="x-ID.17" tvg-chno="1017" tvg-name="Cartoon Network" tvg-id="1017" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/cartoon-network-us.png?raw=true" group-title="Cable Channels",Cartoon Network
+http://192.168.50.2:34400/stream/1e5edc12d8dec71464ddc560ee3eb64d
+#EXTINF:0 channelID="x-ID.18" tvg-chno="1018" tvg-name="Charge" tvg-id="1018" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/charge-us.png?raw=true" group-title="Cable Channels",Charge
+http://192.168.50.2:34400/stream/3d320fca7762d1f609448870193a2ab9
+#EXTINF:0 channelID="x-ID.19" tvg-chno="1019" tvg-name="CMT" tvg-id="1019" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/cmt-us.png?raw=true" group-title="Cable Channels",CMT
+http://192.168.50.2:34400/stream/ddc473b441ecba1b759a2af3b0cbbf9d
+#EXTINF:0 channelID="x-ID.20" tvg-chno="1020" tvg-name="Comedy Central" tvg-id="1020" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/comedy-central-us.png?raw=true" group-title="Cable Channels",Comedy Central
+http://192.168.50.2:34400/stream/9562caa7850b8a04d8b9b35c53436176
+#EXTINF:0 channelID="x-ID.21" tvg-chno="1021" tvg-name="Cooking Channel" tvg-id="1021" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/cooking-channel-us.png?raw=true" group-title="Cable Channels",Cooking Channel
+http://192.168.50.2:34400/stream/25200140caeea52745c483a423f43b18
+#EXTINF:0 channelID="x-ID.22" tvg-chno="1022" tvg-name="Destination America" tvg-id="1022" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/destination-america-us.png?raw=true" group-title="Cable Channels",Destination America
+http://192.168.50.2:34400/stream/8e4167e32e35e876d1cc2f25ef2ffb5b
+#EXTINF:0 channelID="x-ID.23" tvg-chno="1023" tvg-name="Discovery" tvg-id="1023" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/discovery-channel-us.png?raw=true" group-title="Cable Channels",Discovery
+http://192.168.50.2:34400/stream/be41b726f7e1e63ffdb1c70bbfba9b34
+#EXTINF:0 channelID="x-ID.24" tvg-chno="1024" tvg-name="Discovery Family" tvg-id="1024" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/discovery-family-us.png?raw=true" group-title="Cable Channels",Discovery Family
+http://192.168.50.2:34400/stream/a341601e51ae806a378ba519fabfcafc
+#EXTINF:0 channelID="x-ID.25" tvg-chno="1025" tvg-name="Discovery ID" tvg-id="1025" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/investigation-discovery-us.png?raw=true" group-title="Cable Channels",Discovery ID
+http://192.168.50.2:34400/stream/71236981e4669e09c827e0dd044a14a5
+#EXTINF:0 channelID="x-ID.26" tvg-chno="1026" tvg-name="Discovery Science" tvg-id="1026" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/discovery-science-us.png?raw=true" group-title="Cable Channels",Discovery Science
+http://192.168.50.2:34400/stream/e8dac080565e7a11ece62e81e4695477
+#EXTINF:0 channelID="x-ID.27" tvg-chno="1027" tvg-name="Disney Channel" tvg-id="1027" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/disney-channel-us.png?raw=true" group-title="Cable Channels",Disney Channel
+http://192.168.50.2:34400/stream/aa1aa8f3f285c9f6895d133218cd4727
+#EXTINF:0 channelID="x-ID.28" tvg-chno="1028" tvg-name="Disney Junior" tvg-id="1028" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/disney-jr-us.png?raw=true" group-title="Cable Channels",Disney Junior
+http://192.168.50.2:34400/stream/c88fd7ef1638f79c42cf7e6caf07e124
+#EXTINF:0 channelID="x-ID.29" tvg-chno="1029" tvg-name="Disney XD" tvg-id="1029" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/disney-xd-us.png?raw=true" group-title="Cable Channels",Disney XD
+http://192.168.50.2:34400/stream/6d0cb145a096a6924cc095eb77f3c68b
+#EXTINF:0 channelID="x-ID.30" tvg-chno="1030" tvg-name="DIY (Magnolia Network)" tvg-id="1030" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/magnolia-network-us.png?raw=true" group-title="Cable Channels",DIY (Magnolia Network)
+http://192.168.50.2:34400/stream/402e733db1c5ff485a37e9fe652bdec2
+#EXTINF:0 channelID="x-ID.31" tvg-chno="1031" tvg-name="Dog TV" tvg-id="1031" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/dog-tv-us.png?raw=true" group-title="Cable Channels",Dog TV
+http://192.168.50.2:34400/stream/365dec4a6d95088a4697892443bd3ad3
+#EXTINF:0 channelID="x-ID.32" tvg-chno="1032" tvg-name="E! Entertainment" tvg-id="1032" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/e-entertainment-us.png?raw=true" group-title="Cable Channels",E! Entertainment
+http://192.168.50.2:34400/stream/aaa7a7084d79e2e0d59033a0b857f81b
+#EXTINF:0 channelID="x-ID.33" tvg-chno="1033" tvg-name="Food Network" tvg-id="1033" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/food-network-us.png?raw=true" group-title="Cable Channels",Food Network
+http://192.168.50.2:34400/stream/7424add9a9a52af0f808ddb6ed3700ed
+#EXTINF:0 channelID="x-ID.34" tvg-chno="1034" tvg-name="Freeform" tvg-id="1034" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/freeform-us.png?raw=true" group-title="Cable Channels",Freeform
+http://192.168.50.2:34400/stream/4ee3ed901423b726e1985bf061fb6ce0
+#EXTINF:0 channelID="x-ID.35" tvg-chno="1035" tvg-name="Fuse" tvg-id="1035" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/fuse-us.png?raw=true" group-title="Cable Channels",Fuse
+http://192.168.50.2:34400/stream/e879236bbb26b2c1a72e98c4fe1c6c01
+#EXTINF:0 channelID="x-ID.36" tvg-chno="1036" tvg-name="FX" tvg-id="1036" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/fx-us.png?raw=true" group-title="Cable Channels",FX
+http://192.168.50.2:34400/stream/e68d9fac62816d979696e2de78ed1b14
+#EXTINF:0 channelID="x-ID.37" tvg-chno="1037" tvg-name="FXX" tvg-id="1037" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/fxx-us.png?raw=true" group-title="Cable Channels",FXX
+http://192.168.50.2:34400/stream/5fa29846abd174b62ae21c621b14cb6e
+#EXTINF:0 channelID="x-ID.38" tvg-chno="1038" tvg-name="FYI Network" tvg-id="1038" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/fyi-us.png?raw=true" group-title="Cable Channels",FYI Network
+http://192.168.50.2:34400/stream/d47222b4b5fa6378b48260a59dd12a98
+#EXTINF:0 channelID="x-ID.39" tvg-chno="1039" tvg-name="Game Show Network" tvg-id="1039" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/game-show-network-us.png?raw=true" group-title="Cable Channels",Game Show Network
+http://192.168.50.2:34400/stream/bc38a696829789e4e8f99e33e84a4bb3
+#EXTINF:0 channelID="x-ID.40" tvg-chno="1040" tvg-name="Great American Family" tvg-id="1040" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/great-american-family-us.png?raw=true" group-title="Cable Channels",Great American Family
+http://192.168.50.2:34400/stream/bf206a38ba0e048357127192a07a1998
+#EXTINF:0 channelID="x-ID.41" tvg-chno="1041" tvg-name="GRIT" tvg-id="1041" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/grit-us.png?raw=true" group-title="Cable Channels",GRIT
+http://192.168.50.2:34400/stream/2ec365ccb4c1b22d56e4a8eec52192de
+#EXTINF:0 channelID="x-ID.42" tvg-chno="1042" tvg-name="Hallmark Channel" tvg-id="1042" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/hallmark-channel-us.png?raw=true" group-title="Cable Channels",Hallmark Channel
+http://192.168.50.2:34400/stream/6f5f6fb877442104374f858e2752da63
+#EXTINF:0 channelID="x-ID.43" tvg-chno="1043" tvg-name="Hallmark Drama" tvg-id="1043" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/hallmark-family-us.png?raw=true" group-title="Cable Channels",Hallmark Drama
+http://192.168.50.2:34400/stream/b96cf165ab69a734b4a0e019790ae430
+#EXTINF:0 channelID="x-ID.44" tvg-chno="1044" tvg-name="Hallmark Movies & Mysteries" tvg-id="1044" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true" group-title="Cable Channels",Hallmark Movies & Mysteries
+http://192.168.50.2:34400/stream/7e70afc79222e9f3646772611db0776e
+#EXTINF:0 channelID="x-ID.45" tvg-chno="1045" tvg-name="HGTV" tvg-id="1045" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/hgtv-us.png?raw=true" group-title="Cable Channels",HGTV
+http://192.168.50.2:34400/stream/5acb4f5a57e55dbbfbbebdb7bab89daf
+#EXTINF:0 channelID="x-ID.46" tvg-chno="1046" tvg-name="History Channel" tvg-id="1046" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/history-channel-us.png?raw=true" group-title="Cable Channels",History Channel
+http://192.168.50.2:34400/stream/1bf8722717dcaffdc86f4edf1c62b999
+#EXTINF:0 channelID="x-ID.47" tvg-chno="1047" tvg-name="IFC" tvg-id="1047" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/ifc-us.png?raw=true" group-title="Cable Channels",IFC
+http://192.168.50.2:34400/stream/6cfc1ea72b18918a5050306d9b964917
+#EXTINF:0 channelID="x-ID.48" tvg-chno="1048" tvg-name="INSP TV" tvg-id="1048" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/insp-us.png?raw=true" group-title="Cable Channels",INSP TV
+http://192.168.50.2:34400/stream/4605c6b3abfb03959444d9141dbdf21c
+#EXTINF:0 channelID="x-ID.49" tvg-chno="1049" tvg-name="LIfetime Network" tvg-id="1049" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/lifetime-us.png?raw=true" group-title="Cable Channels",LIfetime Network
+http://192.168.50.2:34400/stream/011064532902a5543a3b16b2ec71f90f
+#EXTINF:0 channelID="x-ID.50" tvg-chno="1050" tvg-name="Logo" tvg-id="1050" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/logo-us.png?raw=true" group-title="Cable Channels",Logo
+http://192.168.50.2:34400/stream/3123d240bcaa89919b60eee02b44281f
+#EXTINF:0 channelID="x-ID.51" tvg-chno="1051" tvg-name="ME TV" tvg-id="1051" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/me-tv-us.png?raw=true" group-title="Cable Channels",ME TV
+http://192.168.50.2:34400/stream/4d68db159cd8b9f5b6b254d87c5d01f2
+#EXTINF:0 channelID="x-ID.52" tvg-chno="1052" tvg-name="MTV" tvg-id="1052" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/mtv-us.png?raw=true" group-title="Cable Channels",MTV
+http://192.168.50.2:34400/stream/0c5edf9bbdacc9e1689ecfa1c35e6947
+#EXTINF:0 channelID="x-ID.53" tvg-chno="1053" tvg-name="MTV Classic" tvg-id="1053" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/mtv-classic-us.png?raw=true" group-title="Cable Channels",MTV Classic
+http://192.168.50.2:34400/stream/765121f857280a34219a5c34fe7e5d6d
+#EXTINF:0 channelID="x-ID.54" tvg-chno="1054" tvg-name="MTV2" tvg-id="1054" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/mtv-2-us.png?raw=true" group-title="Cable Channels",MTV2
+http://192.168.50.2:34400/stream/3f517c7ea8101baa259986a205f5fbdd
+#EXTINF:0 channelID="x-ID.55" tvg-chno="1055" tvg-name="National Geographic" tvg-id="1055" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/national-geographic-us.png?raw=true" group-title="Cable Channels",National Geographic
+http://192.168.50.2:34400/stream/50b5eb60717091f9e0a58a82c588d0fa
+#EXTINF:0 channelID="x-ID.56" tvg-chno="1056" tvg-name="National Geographic Wild" tvg-id="1056" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/nat-geo-wild-us.png?raw=true" group-title="Cable Channels",National Geographic Wild
+http://192.168.50.2:34400/stream/abb46827cadaaedf7f57095745ecc5f4
+#EXTINF:0 channelID="x-ID.58" tvg-chno="1058" tvg-name="Nick Jr" tvg-id="1058" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/nick-jr-us.png?raw=true" group-title="Cable Channels",Nick Jr
+http://192.168.50.2:34400/stream/47479d0758e74eccd3998f1ca7190fb0
+#EXTINF:0 channelID="x-ID.59" tvg-chno="1059" tvg-name="Nickelodeon" tvg-id="1059" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/nickelodeon-us.png?raw=true" group-title="Cable Channels",Nickelodeon
+http://192.168.50.2:34400/stream/21ffef0684d1b9d8f8931708733513d4
+#EXTINF:0 channelID="x-ID.60" tvg-chno="1060" tvg-name="Nicktoons" tvg-id="1060" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true" group-title="Cable Channels",Nicktoons
+http://192.168.50.2:34400/stream/505493fe5901e5257cfdcf9c8cf8b692
+#EXTINF:0 channelID="x-ID.61" tvg-chno="1061" tvg-name="Outdoor TV" tvg-id="1061" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/outdoor-channel-us.png?raw=true" group-title="Cable Channels",Outdoor TV
+http://192.168.50.2:34400/stream/fa62df6fe55952f4ec0f0b35e698c0ac
+#EXTINF:0 channelID="x-ID.62" tvg-chno="1062" tvg-name="Outside TV" tvg-id="1062" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/outside-tv-us.png?raw=true" group-title="Cable Channels",Outside TV
+http://192.168.50.2:34400/stream/a0f3020274b5dccb9af51bcd8677d66f
+#EXTINF:0 channelID="x-ID.63" tvg-chno="1063" tvg-name="OVATION" tvg-id="1063" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/ovation-us.png?raw=true" group-title="Cable Channels",OVATION
+http://192.168.50.2:34400/stream/1a8494e45dd1707095b394eded2f3b54
+#EXTINF:0 channelID="x-ID.64" tvg-chno="1064" tvg-name="OWN" tvg-id="1064" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/oprah-winfrey-network-us.png?raw=true" group-title="Cable Channels",OWN
+http://192.168.50.2:34400/stream/d0772d55f4328e6800f45f30faab8159
+#EXTINF:0 channelID="x-ID.66" tvg-chno="1066" tvg-name="Paramount Network" tvg-id="1066" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/paramount-network-us.png?raw=true" group-title="Cable Channels",Paramount Network
+http://192.168.50.2:34400/stream/9544c0bef317f7621f009b9370d8315d
+#EXTINF:0 channelID="x-ID.67" tvg-chno="1067" tvg-name="PIXL" tvg-id="1067" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/pixl-us.png?raw=true" group-title="Cable Channels",PIXL
+http://192.168.50.2:34400/stream/313c87ed60ac9e000b341fa700b2fe06
+#EXTINF:0 channelID="x-ID.68" tvg-chno="1068" tvg-name="QVC" tvg-id="1068" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/qvc-us.png?raw=true" group-title="Cable Channels",QVC
+http://192.168.50.2:34400/stream/f00ca3fe88b5fb120ff438a74a115c82
+#EXTINF:0 channelID="x-ID.69" tvg-chno="1069" tvg-name="REELZ" tvg-id="1069" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/reelz-us.png?raw=true" group-title="Cable Channels",REELZ
+http://192.168.50.2:34400/stream/eff71db5e3471f84f5b2ad6822451614
+#EXTINF:0 channelID="x-ID.70" tvg-chno="1070" tvg-name="REVOLT" tvg-id="1070" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/revolt-us.png?raw=true" group-title="Cable Channels",REVOLT
+http://192.168.50.2:34400/stream/c2c73c884a62cf99659119e6c0ba353b
+#EXTINF:0 channelID="x-ID.71" tvg-chno="1071" tvg-name="Smithsonian Channel" tvg-id="1071" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/smithsonian-channel-us.png?raw=true" group-title="Cable Channels",Smithsonian Channel
+http://192.168.50.2:34400/stream/f6b2d5b5af33fb271c7aa8d9be9d2718
+#EXTINF:0 channelID="x-ID.72" tvg-chno="1072" tvg-name="SYFY" tvg-id="1072" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true" group-title="Cable Channels",SYFY
+http://192.168.50.2:34400/stream/bb8b4f726153124ab551d449dd4cfa04
+#EXTINF:0 channelID="x-ID.73" tvg-chno="1073" tvg-name="TBS" tvg-id="1073" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/tbs-us.png?raw=true" group-title="Cable Channels",TBS
+http://192.168.50.2:34400/stream/82e5a0b38ae7fac2e6e0e296369ab40b
+#EXTINF:0 channelID="x-ID.74" tvg-chno="1074" tvg-name="Teen Nick" tvg-id="1074" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/teen-nick-us.png?raw=true" group-title="Cable Channels",Teen Nick
+http://192.168.50.2:34400/stream/dfd954fcf75eea5921a20dbedc33bb93
+#EXTINF:0 channelID="x-ID.75" tvg-chno="1075" tvg-name="TLC" tvg-id="1075" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/tlc-us.png?raw=true" group-title="Cable Channels",TLC
+http://192.168.50.2:34400/stream/fdfbd6c45302a386aef2225a1f561047
+#EXTINF:0 channelID="x-ID.76" tvg-chno="1076" tvg-name="TNT" tvg-id="1076" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/tnt-us.png?raw=true" group-title="Cable Channels",TNT
+http://192.168.50.2:34400/stream/7fdc280e2e94d8fa02140f15251372ed
+#EXTINF:0 channelID="x-ID.77" tvg-chno="1077" tvg-name="Travel Channel" tvg-id="1077" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true" group-title="Cable Channels",Travel Channel
+http://192.168.50.2:34400/stream/ae63c09a571fdafae6e6adf6ddb0f1c6
+#EXTINF:0 channelID="x-ID.78" tvg-chno="1078" tvg-name="TruTV" tvg-id="1078" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/tru-tv-us.png?raw=true" group-title="Cable Channels",TruTV
+http://192.168.50.2:34400/stream/c469d73502bcbed8c9c097a25ff2b40f
+#EXTINF:0 channelID="x-ID.79" tvg-chno="1079" tvg-name="TV Land" tvg-id="1079" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/tv-land-us.png?raw=true" group-title="Cable Channels",TV Land
+http://192.168.50.2:34400/stream/938d53c752d682231cfdbf578ba561d5
+#EXTINF:0 channelID="x-ID.80" tvg-chno="1080" tvg-name="TV ONE" tvg-id="1080" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/one-tv-us.png?raw=true" group-title="Cable Channels",TV ONE
+http://192.168.50.2:34400/stream/7f996cd414255e4bfc1c290d34758369
+#EXTINF:0 channelID="x-ID.81" tvg-chno="1081" tvg-name="UP TV" tvg-id="1081" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/up-tv-us.png?raw=true" group-title="Cable Channels",UP TV
+http://192.168.50.2:34400/stream/f3dacf0c735ba172ac21a71601686523
+#EXTINF:0 channelID="x-ID.82" tvg-chno="1082" tvg-name="USA Network" tvg-id="1082" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" group-title="Cable Channels",USA Network
+http://192.168.50.2:34400/stream/b9e646ab29152662fbb58eed5ef84631
+#EXTINF:0 channelID="x-ID.83" tvg-chno="1083" tvg-name="VH1" tvg-id="1083" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/vh1-us.png?raw=true" group-title="Cable Channels",VH1
+http://192.168.50.2:34400/stream/1705369dbb1a5cff80137fd439d7e336
+#EXTINF:0 channelID="x-ID.84" tvg-chno="1084" tvg-name="WE TV" tvg-id="1084" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/we-tv-us.png?raw=true" group-title="Cable Channels",WE TV
+http://192.168.50.2:34400/stream/606e174f04ece2c28965b1ce0be8e1ba
+#EXTINF:0 channelID="x-ID.85" tvg-chno="1085" tvg-name="ABC News Live" tvg-id="1085" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/abc-news-live-us.png?raw=true" group-title="News",ABC News Live
+http://192.168.50.2:34400/stream/ba4c8f2569f5de8706c9bbbe687406d8
+#EXTINF:0 channelID="x-ID.86" tvg-chno="1086" tvg-name="Bloomberg TV" tvg-id="1086" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="News",Bloomberg TV
+http://192.168.50.2:34400/stream/9d4c58e8c47dc6dd204efeeebb150a77
+#EXTINF:0 channelID="x-ID.87" tvg-chno="1087" tvg-name="C SPAN" tvg-id="1087" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/c-span-1-us.png?raw=true" group-title="News",C SPAN
+http://192.168.50.2:34400/stream/de5c9d96578acf125ee0c37b6c00a3ed
+#EXTINF:0 channelID="x-ID.88" tvg-chno="1088" tvg-name="C SPAN 2" tvg-id="1088" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/c-span-2-us.png?raw=true" group-title="News",C SPAN 2
+http://192.168.50.2:34400/stream/a97c2cf5b6d623aed91886bc31c59453
+#EXTINF:0 channelID="x-ID.89" tvg-chno="1089" tvg-name="C SPAN 3" tvg-id="1089" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/c-span-3-us.png?raw=true" group-title="News",C SPAN 3
+http://192.168.50.2:34400/stream/fadd8ebb9e2954ec688af2fe74c75023
+#EXTINF:0 channelID="x-ID.90" tvg-chno="1090" tvg-name="Cheddar News" tvg-id="1090" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/cheddar-news-us.png?raw=true" group-title="News",Cheddar News
+http://192.168.50.2:34400/stream/9a814fc1587fd769f4d93ef272c47705
+#EXTINF:0 channelID="x-ID.91" tvg-chno="1091" tvg-name="CNBC" tvg-id="1091" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/cnbc-us.png?raw=true" group-title="News",CNBC
+http://192.168.50.2:34400/stream/81e54239708cdb977189e1a4632e5e03
+#EXTINF:0 channelID="x-ID.92" tvg-chno="1092" tvg-name="CNN" tvg-id="1092" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true" group-title="News",CNN
+http://192.168.50.2:34400/stream/b0e8ebe1cb28d9085e6955f42c4300f8
+#EXTINF:0 channelID="x-ID.93" tvg-chno="1093" tvg-name="Fox Business" tvg-id="1093" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true" group-title="News",Fox Business
+http://192.168.50.2:34400/stream/bcf45b65b9c79cd504443039427c4802
+#EXTINF:0 channelID="x-ID.94" tvg-chno="1094" tvg-name="FOX News" tvg-id="1094" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/fox-news-framed-us.png?raw=true" group-title="News",FOX News
+http://192.168.50.2:34400/stream/a36e612c5d5ae1073d03f00ce470f6df
+#EXTINF:0 channelID="x-ID.96" tvg-chno="1096" tvg-name="HLN" tvg-id="1096" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/hln-us.png?raw=true" group-title="News",HLN
+http://192.168.50.2:34400/stream/27d4b641742c11d5a0f157d51fafd0bf
+#EXTINF:0 channelID="x-ID.97" tvg-chno="1097" tvg-name="MSNBC" tvg-id="1097" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/msnbc-alt-us.png?raw=true" group-title="News",MSNBC
+http://192.168.50.2:34400/stream/d8865b01a2c9dc172446e5cfdeb88a0a
+#EXTINF:0 channelID="x-ID.100" tvg-chno="1100" tvg-name="RFD TV" tvg-id="1100" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/rfd-tv-us.png?raw=true" group-title="News",RFD TV
+http://192.168.50.2:34400/stream/d57a8ad6045985695c89421180471de3
+#EXTINF:0 channelID="x-ID.101" tvg-chno="1101" tvg-name="The Weather Channel" tvg-id="1101" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/weather-channel-us.png?raw=true" group-title="News",The Weather Channel
+http://192.168.50.2:34400/stream/901c87452a249a3ca1abbc12b917389b
+#EXTINF:0 channelID="x-ID.102" tvg-chno="1102" tvg-name="Weather Nation" tvg-id="1102" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/weathernation-us.png?raw=true" group-title="News",Weather Nation
+http://192.168.50.2:34400/stream/0a1b1e81f335d36c9ba2f0e1036e9a88
+#EXTINF:0 channelID="x-ID.103" tvg-chno="1103" tvg-name="Cinemax" tvg-id="1103" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/cinemax-us.png?raw=true" group-title="Movies (US)",Cinemax
+http://192.168.50.2:34400/stream/9b9fd4ba6120ea068c1c11879089e93a
+#EXTINF:0 channelID="x-ID.104" tvg-chno="1104" tvg-name="Cinemax 5Starmax" tvg-id="1104" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/cinemax-5-starmax-us.png?raw=true" group-title="Movies (US)",Cinemax 5Starmax
+http://192.168.50.2:34400/stream/1e2eece8bcce0657c2fb27d27d0d7050
+#EXTINF:0 channelID="x-ID.105" tvg-chno="1105" tvg-name="Cinemax Actionmax" tvg-id="1105" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/cinemax-actionmax-us.png?raw=true" group-title="Movies (US)",Cinemax Actionmax
+http://192.168.50.2:34400/stream/902308f30786194a4f8d47a967d4a5e3
+#EXTINF:0 channelID="x-ID.106" tvg-chno="1106" tvg-name="Cinemax Moremax" tvg-id="1106" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true" group-title="Movies (US)",Cinemax Moremax
+http://192.168.50.2:34400/stream/a376b38e58f68fc0f253c72ec1ce0f74
+#EXTINF:0 channelID="x-ID.107" tvg-chno="1107" tvg-name="Cinemax Moviemax" tvg-id="1107" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/cinemax-moviemax-us.png?raw=true" group-title="Movies (US)",Cinemax Moviemax
+http://192.168.50.2:34400/stream/c82a0366b688078c5c071f4a9e04075f
+#EXTINF:0 channelID="x-ID.108" tvg-chno="1108" tvg-name="Cinemax Outermax" tvg-id="1108" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/cinemax-outermax-us.png?raw=true" group-title="Movies (US)",Cinemax Outermax
+http://192.168.50.2:34400/stream/553349e4d5b6f5ef60d836e1607e00ce
+#EXTINF:0 channelID="x-ID.109" tvg-chno="1109" tvg-name="Cinemax Thrillermax" tvg-id="1109" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/cinemax-thrillermax-us.png?raw=true" group-title="Movies (US)",Cinemax Thrillermax
+http://192.168.50.2:34400/stream/f0ae1f0074425eb5c3703d8515edaad9
+#EXTINF:0 channelID="x-ID.110" tvg-chno="1110" tvg-name="FXM" tvg-id="1110" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true" group-title="Movies (US)",FXM
+http://192.168.50.2:34400/stream/9ac983d825eee6e9e6d18c8a62c563ac
+#EXTINF:0 channelID="x-ID.111" tvg-chno="1111" tvg-name="HBO" tvg-id="1111" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/hbo-us.png?raw=true" group-title="Movies (US)",HBO
+http://192.168.50.2:34400/stream/fb67c6435c0ae778669f726094499270
+#EXTINF:0 channelID="x-ID.112" tvg-chno="1112" tvg-name="HBO (West)" tvg-id="1112" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/hbo-us.png?raw=true" group-title="Movies (US)",HBO (West)
+http://192.168.50.2:34400/stream/79acd37ef924bd0ff0b53ebda12fac5b
+#EXTINF:0 channelID="x-ID.113" tvg-chno="1113" tvg-name="HBO 2" tvg-id="1113" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/hbo-2-us.png?raw=true" group-title="Movies (US)",HBO 2
+http://192.168.50.2:34400/stream/1c361a5a66b0518498f014a566ef7b4e
+#EXTINF:0 channelID="x-ID.114" tvg-chno="1114" tvg-name="HBO Comedy" tvg-id="1114" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/hbo-comedy-us.png?raw=true" group-title="Movies (US)",HBO Comedy
+http://192.168.50.2:34400/stream/e485378c51ed4f89a0419fdcacbe92db
+#EXTINF:0 channelID="x-ID.115" tvg-chno="1115" tvg-name="HBO Family" tvg-id="1115" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/hbo-family-us.png?raw=true" group-title="Movies (US)",HBO Family
+http://192.168.50.2:34400/stream/b5cdbb6cf11a34c86e23d357875b1ce9
+#EXTINF:0 channelID="x-ID.116" tvg-chno="1116" tvg-name="HBO Signature" tvg-id="1116" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/hbo-signature-us.png?raw=true" group-title="Movies (US)",HBO Signature
+http://192.168.50.2:34400/stream/741826e3e6552f7d6f91be7516bfd026
+#EXTINF:0 channelID="x-ID.117" tvg-chno="1117" tvg-name="HBO Zone" tvg-id="1117" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/hbo-zone-us.png?raw=true" group-title="Movies (US)",HBO Zone
+http://192.168.50.2:34400/stream/a8139f3ad7e46c6350bd2d22e075e090
+#EXTINF:0 channelID="x-ID.118" tvg-chno="1118" tvg-name="HDnet Movies" tvg-id="1118" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/hdnet-movies-us.png?raw=true" group-title="Movies (US)",HDnet Movies
+http://192.168.50.2:34400/stream/d7acba5c52094e2c657d0c03203794cd
+#EXTINF:0 channelID="x-ID.119" tvg-chno="1119" tvg-name="IndiePlex (East)" tvg-id="1119" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/plex-indieplex-us.png?raw=true" group-title="Movies (US)",IndiePlex (East)
+http://192.168.50.2:34400/stream/ac774bf84da0ea644735d27fd24f3b47
+#EXTINF:0 channelID="x-ID.120" tvg-chno="1120" tvg-name="MGM+" tvg-id="1120" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/mgm-plus-us.png?raw=true" group-title="Movies (US)",MGM+
+http://192.168.50.2:34400/stream/cc71bf1065c598ed94789ce6f834214b
+#EXTINF:0 channelID="x-ID.121" tvg-chno="1121" tvg-name="MGM+ Drive In" tvg-id="1121" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/mgm-plus-drive-in-us.png?raw=true" group-title="Movies (US)",MGM+ Drive In
+http://192.168.50.2:34400/stream/d7bf56cf753e66d7fcae61ff0321c97e
+#EXTINF:0 channelID="x-ID.122" tvg-chno="1122" tvg-name="MGM+ Hits" tvg-id="1122" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/mgm-plus-hits-us.png?raw=true" group-title="Movies (US)",MGM+ Hits
+http://192.168.50.2:34400/stream/629774bb3e96cabd1a7e6c81597594fa
+#EXTINF:0 channelID="x-ID.123" tvg-chno="1123" tvg-name="MGM+ Marquee" tvg-id="1123" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/mgm-plus-marquee-us.png?raw=true" group-title="Movies (US)",MGM+ Marquee
+http://192.168.50.2:34400/stream/45c296d9e38b9baad4b133e955fcde5c
+#EXTINF:0 channelID="x-ID.124" tvg-chno="1124" tvg-name="MGM+ Marquee" tvg-id="1124" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/mgm-plus-marquee-us.png?raw=true" group-title="Movies (US)",MGM+ Marquee
+http://192.168.50.2:34400/stream/45c296d9e38b9baad4b133e955fcde5c
+#EXTINF:0 channelID="x-ID.125" tvg-chno="1125" tvg-name="MoviePlex" tvg-id="1125" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/plex-movieplex-us.png?raw=true" group-title="Movies (US)",MoviePlex
+http://192.168.50.2:34400/stream/cc8a7b72808057ca70786e747c28723c
+#EXTINF:0 channelID="x-ID.126" tvg-chno="1126" tvg-name="RetroPlex" tvg-id="1126" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/plex-retroplex-us.png?raw=true" group-title="Movies (US)",RetroPlex
+http://192.168.50.2:34400/stream/7b67769c987167b8f9ea73045ae93993
+#EXTINF:0 channelID="x-ID.127" tvg-chno="1127" tvg-name="Showtime" tvg-id="1127" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true" group-title="Movies (US)",Showtime
+http://192.168.50.2:34400/stream/15d0b39b6a73d87ef4ef9c54567e3e64
+#EXTINF:0 channelID="x-ID.128" tvg-chno="1128" tvg-name="Showtime 2" tvg-id="1128" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" group-title="Movies (US)",Showtime 2
+http://192.168.50.2:34400/stream/a21f0dd6f3c3f819266c8577f0f20260
+#EXTINF:0 channelID="x-ID.129" tvg-chno="1129" tvg-name="Showtime Extreme" tvg-id="1129" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/showtime-extreme-us.png?raw=true" group-title="Movies (US)",Showtime Extreme
+http://192.168.50.2:34400/stream/0b84d93db006fd535d9eba02a1910e15
+#EXTINF:0 channelID="x-ID.130" tvg-chno="1130" tvg-name="Showtime Family Zone" tvg-id="1130" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/showtime-family-zone-us.png?raw=true" group-title="Movies (US)",Showtime Family Zone
+http://192.168.50.2:34400/stream/04ee9b97c41527a4d811a1b560e5603b
+#EXTINF:0 channelID="x-ID.131" tvg-chno="1131" tvg-name="Showtime Next" tvg-id="1131" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/showtime-next-us.png?raw=true" group-title="Movies (US)",Showtime Next
+http://192.168.50.2:34400/stream/94a9e62ed9c250f175bce702eec89f6e
+#EXTINF:0 channelID="x-ID.132" tvg-chno="1132" tvg-name="Showtime Showcase" tvg-id="1132" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/showtime-showcase-us.png?raw=true" group-title="Movies (US)",Showtime Showcase
+http://192.168.50.2:34400/stream/a43c9e21cb8d88e2412fb7d76fda754a
+#EXTINF:0 channelID="x-ID.133" tvg-chno="1133" tvg-name="Showtime Women" tvg-id="1133" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/showtime-women-us.png?raw=true" group-title="Movies (US)",Showtime Women
+http://192.168.50.2:34400/stream/1155c1cfe5f97a3967ccb45146f068fa
+#EXTINF:0 channelID="x-ID.134" tvg-chno="1134" tvg-name="Sony Movies" tvg-id="1134" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/sony-movies-us.png?raw=true" group-title="Movies (US)",Sony Movies
+http://192.168.50.2:34400/stream/e5b9a9e5d1aa730fc697994d9f27faba
+#EXTINF:0 channelID="x-ID.135" tvg-chno="1135" tvg-name="Starz" tvg-id="1135" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="Movies (US)",Starz
+http://192.168.50.2:34400/stream/075b3242b4018d73cabe932557bdee0f
+#EXTINF:0 channelID="x-ID.136" tvg-chno="1136" tvg-name="Starz Cinema" tvg-id="1136" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/starz-cinema-us.png?raw=true" group-title="Movies (US)",Starz Cinema
+http://192.168.50.2:34400/stream/d81dd11c4c5c9b7bab431f3f6a1c186d
+#EXTINF:0 channelID="x-ID.137" tvg-chno="1137" tvg-name="Starz Comedy" tvg-id="1137" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/starz-comedy-us.png?raw=true" group-title="Movies (US)",Starz Comedy
+http://192.168.50.2:34400/stream/1360686439aecc8b22264d1ac366da9e
+#EXTINF:0 channelID="x-ID.138" tvg-chno="1138" tvg-name="Starz Edge" tvg-id="1138" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/starz-edge-us.png?raw=true" group-title="Movies (US)",Starz Edge
+http://192.168.50.2:34400/stream/2a3feced46e5b736c7f86f401b999b30
+#EXTINF:0 channelID="x-ID.139" tvg-chno="1139" tvg-name="Starz Encore" tvg-id="1139" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/starz-encore-us.png?raw=true" group-title="Movies (US)",Starz Encore
+http://192.168.50.2:34400/stream/c0c4a27681217b84e7018e82086e2852
+#EXTINF:0 channelID="x-ID.140" tvg-chno="1140" tvg-name="Starz Encore Action" tvg-id="1140" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/starz-encore-action-us.png?raw=true" group-title="Movies (US)",Starz Encore Action
+http://192.168.50.2:34400/stream/e4de5e79cee3d37a3be3a7d1b8fc87b9
+#EXTINF:0 channelID="x-ID.141" tvg-chno="1141" tvg-name="Starz Encore Black" tvg-id="1141" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/starz-encore-black-us.png?raw=true" group-title="Movies (US)",Starz Encore Black
+http://192.168.50.2:34400/stream/16ce4a0d54b00b8c93de728d36e88b7c
+#EXTINF:0 channelID="x-ID.142" tvg-chno="1142" tvg-name="Starz Encore Classic" tvg-id="1142" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/starz-encore-classic-us.png?raw=true" group-title="Movies (US)",Starz Encore Classic
+http://192.168.50.2:34400/stream/a54dbb7857f7e88246c5c3e73e46b99b
+#EXTINF:0 channelID="x-ID.143" tvg-chno="1143" tvg-name="Starz Encore Family" tvg-id="1143" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/starz-encore-family-us.png?raw=true" group-title="Movies (US)",Starz Encore Family
+http://192.168.50.2:34400/stream/250be353e60abae2e44f2887fb1a52af
+#EXTINF:0 channelID="x-ID.144" tvg-chno="1144" tvg-name="Starz Encore Suspense" tvg-id="1144" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/starz-encore-suspense-us.png?raw=true" group-title="Movies (US)",Starz Encore Suspense
+http://192.168.50.2:34400/stream/2d879ee996344c54e653cbc8a44934d9
+#EXTINF:0 channelID="x-ID.145" tvg-chno="1145" tvg-name="Starz Encore Westerns" tvg-id="1145" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/starz-encore-westerns-us.png?raw=true" group-title="Movies (US)",Starz Encore Westerns
+http://192.168.50.2:34400/stream/e0dc5f4c4ef40b5975ca04ff46d9d316
+#EXTINF:0 channelID="x-ID.146" tvg-chno="1146" tvg-name="Starz In Black" tvg-id="1146" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/starz-in-black-us.png?raw=true" group-title="Movies (US)",Starz In Black
+http://192.168.50.2:34400/stream/208813241031f4d093124e3d36e61070
+#EXTINF:0 channelID="x-ID.147" tvg-chno="1147" tvg-name="Starz Kids & Family" tvg-id="1147" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/starz-kids-and-family-us.png?raw=true" group-title="Movies (US)",Starz Kids & Family
+http://192.168.50.2:34400/stream/76d60559b1919337c80bab4dd2d8fe5e
+#EXTINF:0 channelID="x-ID.148" tvg-chno="1148" tvg-name="Sundance TV" tvg-id="1148" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/sundance-tv-us.png?raw=true" group-title="Movies (US)",Sundance TV
+http://192.168.50.2:34400/stream/feeed57f6713f4a30a236cc2cd82ed3f
+#EXTINF:0 channelID="x-ID.149" tvg-chno="1149" tvg-name="Turner Classic Movies" tvg-id="1149" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-states/tcm-us.png?raw=true" group-title="Movies (US)",Turner Classic Movies
+http://192.168.50.2:34400/stream/79c33fa0af235efb7228768eb77aecc1
+#EXTINF:0 channelID="x-ID.150" tvg-chno="1150" tvg-name="5 Action" tvg-id="1150" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-kingdom/5-action-uk.png?raw=true" group-title="Movies (UK)",5 Action
+http://192.168.50.2:34400/stream/d0b05f325cf93cc02b566bf425fd677d
+#EXTINF:0 channelID="x-ID.151" tvg-chno="1151" tvg-name="Film 4" tvg-id="1151" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-kingdom/film-4-uk.png?raw=true" group-title="Movies (UK)",Film 4
+http://192.168.50.2:34400/stream/519394974d2681be9035cf3a384b690d
+#EXTINF:0 channelID="x-ID.153" tvg-chno="1153" tvg-name="Sky Cinema Action" tvg-id="1153" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-kingdom/sky-cinema-action-uk.png?raw=true" group-title="Movies (UK)",Sky Cinema Action
+http://192.168.50.2:34400/stream/21e3a7888ad0b6b12f74bfb8b8ad8f79
+#EXTINF:0 channelID="x-ID.155" tvg-chno="1155" tvg-name="Sky Cinema Comedy" tvg-id="1155" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-kingdom/sky-cinema-comedy-uk.png?raw=true" group-title="Movies (UK)",Sky Cinema Comedy
+http://192.168.50.2:34400/stream/c1d7e8edea6b76960a89c2535acb6316
+#EXTINF:0 channelID="x-ID.156" tvg-chno="1156" tvg-name="Sky Cinema Family" tvg-id="1156" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-kingdom/sky-cinema-family-uk.png?raw=true" group-title="Movies (UK)",Sky Cinema Family
+http://192.168.50.2:34400/stream/cfdd21a9b4ed9e30e2d7216d1062a132
+#EXTINF:0 channelID="x-ID.157" tvg-chno="1157" tvg-name="Sky Cinema Greats" tvg-id="1157" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-kingdom/sky-cinema-greats-uk.png?raw=true" group-title="Movies (UK)",Sky Cinema Greats
+http://192.168.50.2:34400/stream/bdf47346f90f1fc615fa68753da75e29
+#EXTINF:0 channelID="x-ID.158" tvg-chno="1158" tvg-name="Sky Cinema Hits" tvg-id="1158" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-kingdom/sky-cinema-hits-uk.png?raw=true" group-title="Movies (UK)",Sky Cinema Hits
+http://192.168.50.2:34400/stream/747caecd4f80898562e2982778da89f8
+#EXTINF:0 channelID="x-ID.159" tvg-chno="1159" tvg-name="Sky Cinema Premiere" tvg-id="1159" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-kingdom/sky-cinema-premiere-uk.png?raw=true" group-title="Movies (UK)",Sky Cinema Premiere
+http://192.168.50.2:34400/stream/0f49411dc01338a0a0c2cffa919e45f1
+#EXTINF:0 channelID="x-ID.160" tvg-chno="1160" tvg-name="Sky Cinema Sci-fi & Horror" tvg-id="1160" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-kingdom/sky-cinema-sci-fi-and-horror-uk.png?raw=true" group-title="Movies (UK)",Sky Cinema Sci-fi & Horror
+http://192.168.50.2:34400/stream/93bca7d42377974bf06c7dbbcda52900
+#EXTINF:0 channelID="x-ID.161" tvg-chno="1161" tvg-name="Sky Cinema Select" tvg-id="1161" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-kingdom/sky-cinema-select-uk.png?raw=true" group-title="Movies (UK)",Sky Cinema Select
+http://192.168.50.2:34400/stream/1e529122cc495a3e348d814cd235b53a
+#EXTINF:0 channelID="x-ID.162" tvg-chno="1162" tvg-name="Sky Cinema Thriller" tvg-id="1162" tvg-logo="https://github.com/prjoni99/tv-logos/blob/main/countries/united-kingdom/sky-cinema-thriller-uk.png?raw=true" group-title="Movies (UK)",Sky Cinema Thriller
+http://192.168.50.2:34400/stream/1a0419925a93a9d1c0aa40cc75deafc1
+#EXTINF:0 channelID="x-ID.163" tvg-chno="1163" tvg-name="24/7 AMERICAN DAD" tvg-id="1163" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/American_dad_logo.svg/2560px-American_dad_logo.svg.png" group-title="24/7 Streams",24/7 AMERICAN DAD
+http://192.168.50.2:34400/stream/4547f0860e6432d53d6483cc7c223148
+#EXTINF:0 channelID="x-ID.164" tvg-chno="1164" tvg-name="24/7 BOBS BURGERS" tvg-id="1164" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bob%27s_Burgers_logo.svg/2560px-Bob%27s_Burgers_logo.svg.png" group-title="24/7 Streams",24/7 BOBS BURGERS
+http://192.168.50.2:34400/stream/460f51761687165c7b8db56d08f65f0f
+#EXTINF:0 channelID="x-ID.165" tvg-chno="1165" tvg-name="ABC (WSOC)" tvg-id="1165" tvg-logo="" group-title="Local Channels",ABC (WSOC)
+http://192.168.50.2:34400/stream/c1d676a583f54055ce47346f1ab8a468
+#EXTINF:0 channelID="x-ID.166" tvg-chno="1166" tvg-name="CBS (WBTV)" tvg-id="1166" tvg-logo="" group-title="Local Channels",CBS (WBTV)
+http://192.168.50.2:34400/stream/dd3f27ba76ce5261239e4199dfc927f0
+#EXTINF:0 channelID="x-ID.167" tvg-chno="1167" tvg-name="FOX (WJZY)" tvg-id="1167" tvg-logo="" group-title="Local Channels",FOX (WJZY)
+http://192.168.50.2:34400/stream/e563ce45465d9716ef817b29832ce9b8
+#EXTINF:0 channelID="x-ID.168" tvg-chno="1168" tvg-name="24/7 DINERS DRIVE INS AND DIVES" tvg-id="1168" tvg-logo="https://us1-prod-images.disco-api.com/2022/01/20/57879ab3-f45d-3436-bf60-cbd953adb998.png?w=1280&p=true&q=60" group-title="24/7 Streams",24/7 DINERS DRIVE INS AND DIVES
+http://192.168.50.2:34400/stream/f7872a23ff46e31fe931f21ea1a22ef0
+#EXTINF:0 channelID="x-ID.169" tvg-chno="1169" tvg-name="NBC (WRAL)" tvg-id="1169" tvg-logo="" group-title="Local Channels",NBC (WRAL)
+http://192.168.50.2:34400/stream/81a0ddb2d227474cb8dad6364c27c2ea
+#EXTINF:0 channelID="x-ID.170" tvg-chno="1170" tvg-name="24/7 EVERYBODY LOVES RAYMOND" tvg-id="1170" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/cc620d33-a803-36ae-a6c2-4f361e517486/TITLE_TREATMENT?language=eng&territory=US&proposition=NBCUOTT&version=9a63f029-4913-32c1-a6a0-a06542434890" group-title="24/7 Streams",24/7 EVERYBODY LOVES RAYMOND
+http://192.168.50.2:34400/stream/156bf9397d8744472a38078006e37b49
+#EXTINF:0 channelID="x-ID.171" tvg-chno="1171" tvg-name="24/7 FAMILY GUY" tvg-id="1171" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Family_Guy_Logo.svg/2560px-Family_Guy_Logo.svg.png" group-title="24/7 Streams",24/7 FAMILY GUY
+http://192.168.50.2:34400/stream/6ee98399872da94b9257e3d7423a7f49
+#EXTINF:0 channelID="x-ID.172" tvg-chno="1172" tvg-name="24/7 FRIENDS" tvg-id="1172" tvg-logo="https://logos-world.net/wp-content/uploads/2021/08/Friends-Symbol.png" group-title="24/7 Streams",24/7 FRIENDS
+http://192.168.50.2:34400/stream/5c564c3120ce6a33a0a2f05937e6997f
+#EXTINF:0 channelID="x-ID.173" tvg-chno="1173" tvg-name="NBC 36 (WCNC)" tvg-id="1173" tvg-logo="" group-title="Local Channels",NBC 36 (WCNC)
+http://192.168.50.2:34400/stream/7d48a9de6c9b6598d1bb4149fd06918d
+#EXTINF:0 channelID="x-ID.174" tvg-chno="1174" tvg-name="24/7 GOOSEBUMPS" tvg-id="1174" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Goosebumps_2015_logo.png" group-title="24/7 Streams",24/7 GOOSEBUMPS
+http://192.168.50.2:34400/stream/87e2ab109b14429c1362488194306780
+#EXTINF:0 channelID="x-ID.175" tvg-chno="1175" tvg-name="24/7 HELLS KITCHEN" tvg-id="1175" tvg-logo="https://imageservice.disco.peacocktv.com/logo/hells_kitchen_unpadded_white/LOGO_NON_PADDED/600/208?proposition=NBCUOTT&territory=US" group-title="24/7 Streams",24/7 HELLS KITCHEN
+http://192.168.50.2:34400/stream/95dc5c426077f0246c4a2efdfbda61a5
+#EXTINF:0 channelID="x-ID.176" tvg-chno="1176" tvg-name="Spectrum 1 News" tvg-id="1176" tvg-logo="" group-title="Local Channels",Spectrum 1 News
+http://192.168.50.2:34400/stream/91808a7c003beb663a2a4256a02593fd
+#EXTINF:0 channelID="x-ID.177" tvg-chno="1177" tvg-name="24/7 HOW IT’S MADE" tvg-id="1177" tvg-logo="https://us1-prod-images.disco-api.com/2023/04/28/f054b7ca-8a70-3df3-a09e-971eebfbf8bf.png?bf=0&f=png&p=true&q=60&w=360" group-title="24/7 Streams",24/7 HOW IT’S MADE
+http://192.168.50.2:34400/stream/0861b9b3e2bfb4ee4b880590a2994e2f
+#EXTINF:0 channelID="x-ID.178" tvg-chno="1178" tvg-name="Discovery Life" tvg-id="1178" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Discovery_Life_logo_2016.svg/225px-Discovery_Life_logo_2016.svg.png" group-title="Cable Channels",Discovery Life
+http://192.168.50.2:34400/stream/b20a3e9eeb7d4d6492e881c7af28fc03
+#EXTINF:0 channelID="x-ID.179" tvg-chno="1179" tvg-name="Oxygen True Crime" tvg-id="1179" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/300px-Oxygen_TV_%282017_Logo%29.svg.png" group-title="Cable Channels",Oxygen True Crime
+http://192.168.50.2:34400/stream/c6465e3861e2fd26c4f9a16c30cafb5f
+#EXTINF:0 channelID="x-ID.181" tvg-chno="1181" tvg-name="Starz (West)" tvg-id="1181" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="Movies (US)",Starz (West)
+http://192.168.50.2:34400/stream/52f71ce6d89929e4e65fd3fab4ad0c06
+#EXTINF:0 channelID="x-ID.182" tvg-chno="1182" tvg-name="24/7 KITCHEN NIGHTMARES" tvg-id="1182" tvg-logo="https://ic.c4assets.com/bips/3058244/86D781A6-4D35-4cac-8f36-1dbcbd4dfea1.png?imformat=chrome" group-title="24/7 Streams",24/7 KITCHEN NIGHTMARES
+http://192.168.50.2:34400/stream/1349466685197e7987fd7cb4307ea311
+#EXTINF:0 channelID="x-ID.184" tvg-chno="1184" tvg-name="24/7 MAN VS FOOD" tvg-id="1184" tvg-logo="https://us1-prod-images.disco-api.com/2021/12/28/b5e56686-af5b-37ce-b23d-1dcc5d9090f2.png?bf=0&f=png&p=true&q=60&w=360" group-title="24/7 Streams",24/7 MAN VS FOOD
+http://192.168.50.2:34400/stream/61622859dfa60ebf2c44f9a39c50fcec
+#EXTINF:0 channelID="x-ID.185" tvg-chno="1185" tvg-name="24/7 MARRIED WITH CHILDREN" tvg-id="1185" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Married_%E2%80%A6_With_Children_%28Sony_Pictures_Television_series_logo%29.svg/1200px-Married_%E2%80%A6_With_Children_%28Sony_Pictures_Television_series_logo%29.svg.png" group-title="24/7 Streams",24/7 MARRIED WITH CHILDREN
+http://192.168.50.2:34400/stream/88755039a534e13c7eb0bfe46373575b
+#EXTINF:0 channelID="x-ID.186" tvg-chno="1186" tvg-name="24/7 MASTERCHEF" tvg-id="1186" tvg-logo="https://logonoid.com/images/masterchef-logo.png" group-title="24/7 Streams",24/7 MASTERCHEF
+http://192.168.50.2:34400/stream/334fabd04c0ae8a060ac862ff2cafc2d
+#EXTINF:0 channelID="x-ID.187" tvg-chno="1187" tvg-name="24/7 MODERN FAMILY" tvg-id="1187" tvg-logo="https://d2bzx2vuetkzse.cloudfront.net/unshoppable_producs/3be23cf1-9e55-43db-ba56-e0e402f21542.png" group-title="24/7 Streams",24/7 MODERN FAMILY
+http://192.168.50.2:34400/stream/770f57ee80a8630735d0164270c8204c
+#EXTINF:0 channelID="x-ID.189" tvg-chno="1189" tvg-name="24/7 PARKS AND RECREATION" tvg-id="1189" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Parks_and_Recreation_%28TV_series%29_logo.png" group-title="24/7 Streams",24/7 PARKS AND RECREATION
+http://192.168.50.2:34400/stream/84a9bdc5adeee09a50a70fea924d4bb7
+#EXTINF:0 channelID="x-ID.190" tvg-chno="1190" tvg-name="24/7 PLANET EARTH" tvg-id="1190" tvg-logo="https://media.themoviedb.org/t/p/w500/v8q3vu7ixrmb7f7CeiTq2SeFFsj.png" group-title="24/7 Streams",24/7 PLANET EARTH
+http://192.168.50.2:34400/stream/c35ba490228a12a3e64693ceca29b7f0
+#EXTINF:0 channelID="x-ID.193" tvg-chno="1193" tvg-name="24/7 SHARK TANK" tvg-id="1193" tvg-logo="https://www.pngkey.com/png/full/267-2675622_sharktank-logo-white-illumibowl-toilet-night-light-new.png" group-title="24/7 Streams",24/7 SHARK TANK
+http://192.168.50.2:34400/stream/e3eee5f061001dc69332581780a846bb
+#EXTINF:0 channelID="x-ID.194" tvg-chno="1194" tvg-name="24/7 SIMPSONS" tvg-id="1194" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/1280px-The_Simpsons_yellow_logo.svg.png" group-title="24/7 Streams",24/7 SIMPSONS
+http://192.168.50.2:34400/stream/78386cc05dcf190fcb1997cea8917503
+#EXTINF:0 channelID="x-ID.195" tvg-chno="1195" tvg-name="24/7 SOUTH PARK" tvg-id="1195" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/South_Park_sign_logo.png/1200px-South_Park_sign_logo.png" group-title="24/7 Streams",24/7 SOUTH PARK
+http://192.168.50.2:34400/stream/1c9ae27a75082b45144284143ada13e3
+#EXTINF:0 channelID="x-ID.197" tvg-chno="1197" tvg-name="24/7 STAR TREK" tvg-id="1197" tvg-logo="https://occ-0-8407-114.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABYLourPeu8gtJbhz23JNU22J7JdSEWtcUXQmFBHs2E7z0TGPAlu3Rbq8ACirLyYUa6DwhNRXspHcdIb3hvCueK4NGboVmALzJdcf_Of73GeF.png?r=ba0" group-title="24/7 Streams",24/7 STAR TREK
+http://192.168.50.2:34400/stream/6161a55fd667fbc61227a2609d975c98
+#EXTINF:0 channelID="x-ID.201" tvg-chno="1201" tvg-name="24/7 THE BIG BANG THEORY" tvg-id="1201" tvg-logo="https://freepngimg.com/save/29407-the-big-bang-theory-image/800x310" group-title="24/7 Streams",24/7 THE BIG BANG THEORY
+http://192.168.50.2:34400/stream/aa7f2ff8fd555cd222e7e5887131213e
+#EXTINF:0 channelID="x-ID.204" tvg-chno="1204" tvg-name="24/7 THE GOLDBERGS" tvg-id="1204" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/The_Goldbergs_%28Sony_Picture_Television_sitcom%29_logo.svg/1280px-The_Goldbergs_%28Sony_Picture_Television_sitcom%29_logo.svg.png" group-title="24/7 Streams",24/7 THE GOLDBERGS
+http://192.168.50.2:34400/stream/bf36ce4267f53df85fddaa5eefeb0cd2
+#EXTINF:0 channelID="x-ID.207" tvg-chno="1207" tvg-name="24/7 THE OFFICE" tvg-id="1207" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ecd51263-bb0f-4465-af86-f7ed25e58e70/def0ykf-5158cc66-5019-4300-9f73-e741f0dc53c7.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VjZDUxMjYzLWJiMGYtNDQ2NS1hZjg2LWY3ZWQyNWU1OGU3MFwvZGVmMHlrZi01MTU4Y2M2Ni01MDE5LTQzMDAtOWY3My1lNzQxZjBkYzUzYzcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.-KwnqQ7eKGIOnQD_Tj2leMXtjnQAXNCrBSxgvojPTPM" group-title="24/7 Streams",24/7 THE OFFICE
+http://192.168.50.2:34400/stream/7929a3b7ef9e89dcbf2882bd88dedbd7
+#EXTINF:0 channelID="x-ID.208" tvg-chno="1208" tvg-name="24/7 TWO AND A HALF MEN" tvg-id="1208" tvg-logo="https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/f4fa5b99-1ac7-4ef6-b837-cd78d7d4c91e/3a51b0ce-6026-11ee-a666-0a509673f275?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=4320" group-title="24/7 Streams",24/7 TWO AND A HALF MEN
+http://192.168.50.2:34400/stream/443361db3a1721a120268eeba4613c3b
+#EXTINF:0 channelID="x-ID.209" tvg-chno="1209" tvg-name="24/7 WILL AND GRACE" tvg-id="1209" tvg-logo="https://www.nbcstore.com/cdn/shop/files/will-grace.png?v=10793240659555760212" group-title="24/7 Streams",24/7 WILL AND GRACE
+http://192.168.50.2:34400/stream/d0fde2e67e73d2080784b922df0d6001
+#EXTINF:0 channelID="x-ID.210" tvg-chno="1210" tvg-name="24/7 WRESTLEMANIA" tvg-id="1210" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Wrestlemania_Neutral_Logo.svg/1280px-Wrestlemania_Neutral_Logo.svg.png" group-title="24/7 Streams",24/7 WRESTLEMANIA
+http://192.168.50.2:34400/stream/ac4dc7b4d9716ede7e403e0998edbb8b
